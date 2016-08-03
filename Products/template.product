@@ -1,0 +1,3 @@
+$ItemName=@itemname
+$ItemPrice=@$1.00
+#Use plugins to modify product types
